@@ -13,6 +13,7 @@ on Coursera. This is the second course.
 - [Week 1](#week-1)
 - [Week 2](#week-2)
 - [Week 3](#week-3)
+- [Certificate](#-certificate)
 
 ## Week 1
 - [Quiz; Practical Applications of Deep Learning]()
@@ -27,3 +28,5 @@ on Coursera. This is the second course.
 ## Week 3
 - [Quiz: Hyperparameter Tuning, Batch Normalization]()
 - [Programming Assignment: Tensorflow]()
+
+## 🎓 [Certificate]()
