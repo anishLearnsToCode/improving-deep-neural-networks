@@ -16,7 +16,7 @@ on Coursera. This is the second course.
 - [Certificate](#-certificate)
 
 ## Week 1
-- [Quiz; Practical Applications of Deep Learning]()
+- [Quiz: Practical Applications of Deep Learning](week_1/quiz-practical-aspects-of-deep-learning.md)
 - [Programming Assignment: Initialization]()
 - [Programming Assignment: Regularization]()
 - [Programming Assignment: Gradient Checking]()
