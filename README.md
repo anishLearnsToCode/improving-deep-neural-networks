@@ -18,15 +18,15 @@ on Coursera. This is the second course.
 ## Week 1
 - [Quiz: Practical Applications of Deep Learning](week_1/quiz-practical-aspects-of-deep-learning.md)
 - [Programming Assignment: Initialization](week_1/initialization/Initialization.ipynb)
-- [Programming Assignment: Regularization]()
-- [Programming Assignment: Gradient Checking]()
+- [Programming Assignment: Regularization](week_1/regularization/Regularization_v2a.ipynb)
+- [Programming Assignment: Gradient Checking](week_1/gradient-checking)
 
 ## Week 2
-- [Quiz: Optimization Algorithms]()
-- [Programming Assignment: Optimization]()
+- [Quiz: Optimization Algorithms](week_2)
+- [Programming Assignment: Optimization](week_2/optimization-methods)
 
 ## Week 3
-- [Quiz: Hyperparameter Tuning, Batch Normalization]()
-- [Programming Assignment: Tensorflow]()
+- [Quiz: Hyperparameter Tuning, Batch Normalization](week_3)
+- [Programming Assignment: Tensorflow](week_3)
 
 ## 🎓 [Certificate]()
