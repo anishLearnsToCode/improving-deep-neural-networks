@@ -26,7 +26,7 @@ on Coursera. This is the second course.
 - [Programming Assignment: Optimization](week_2/optimization-methods)
 
 ## Week 3
-- [Quiz: Hyperparameter Tuning, Batch Normalization](week_3)
+- [Quiz: Hyperparameter Tuning, Batch Normalization](week_3/quiz-hyperparameter-tuning-batch-normalization.md)
 - [Programming Assignment: Tensorflow](week_3)
 
 ## 🎓 [Certificate]()
