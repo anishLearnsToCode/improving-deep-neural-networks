@@ -22,7 +22,7 @@ on Coursera. This is the second course.
 - [Programming Assignment: Gradient Checking](week_1/gradient-checking/Gradient+Checking+v1.ipynb)
 
 ## Week 2
-- [Quiz: Optimization Algorithms](week_2)
+- [Quiz: Optimization Algorithms](week_2/quiz-optimization-algorithms.md)
 - [Programming Assignment: Optimization](week_2/optimization-methods)
 
 ## Week 3
