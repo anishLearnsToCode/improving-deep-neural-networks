@@ -23,10 +23,10 @@ on Coursera. This is the second course.
 
 ## Week 2
 - [Quiz: Optimization Algorithms](week_2/quiz-optimization-algorithms.md)
-- [Programming Assignment: Optimization](week_2/optimization-methods)
+- [Programming Assignment: Optimization](week_2/optimization-methods/Optimization_methods_v1b.ipynb)
 
 ## Week 3
 - [Quiz: Hyperparameter Tuning, Batch Normalization](week_3/quiz-hyperparameter-tuning-batch-normalization.md)
-- [Programming Assignment: Tensorflow](week_3)
+- [Programming Assignment: Tensorflow](week_3/tensorflow-tutorial/TensorFlow_Tutorial_v3b.ipynb)
 
 ## 🎓 [Certificate]()
