@@ -29,4 +29,5 @@ on Coursera. This is the second course.
 - [Quiz: Hyperparameter Tuning, Batch Normalization](week_3/quiz-hyperparameter-tuning-batch-normalization.md)
 - [Programming Assignment: Tensorflow](week_3/tensorflow-tutorial/TensorFlow_Tutorial_v3b.ipynb)
 
-## 🎓 [Certificate]()
+## 🎓 [Certificate](coursera.org/verify/WLLHPCZSRZ2Y)
+![certificate](assets/certificate.png)
